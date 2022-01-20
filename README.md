@@ -20,3 +20,7 @@ For over 8 years I worked in a large company as a Business Specialist. I was res
 * ISTQB® Foundation Sii Polska
 * ISTQB® Certified Software Tester – Foundation Level AmberTeam Academy
 * SQL Structured Query Language - Udemy
+# books
+* Zawód Tester - Radosław Smilgin
+* Certyfikowany tester ISTQB -  Adam Roman, Lucjan Stapp
+* Pasja Testowania - Krzysztof Jadczyk

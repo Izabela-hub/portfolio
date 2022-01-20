@@ -16,3 +16,7 @@ For over 8 years I worked in a large company as a Business Specialist. I was res
 * SQL Basics
 # certificates
 [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) no. 84046
+# courses
+* ISTQB® Foundation Sii Polska
+* ISTQB® Certified Software Tester – Foundation Level AmberTeam Academy
+* SQL Structured Query Language - Udemy

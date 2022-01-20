@@ -15,3 +15,4 @@ For over 8 years I worked in a large company as a Business Specialist. I was res
 * API Testing
 * SQL Basics
 # certificates
+[ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) no. 84046

@@ -25,4 +25,4 @@ For over 8 years I worked in a large company as a Business Specialist. I was res
 * Certyfikowany tester ISTQB -  Adam Roman, Lucjan Stapp
 * Pasja Testowania - Krzysztof Jadczyk
 # my projects
-* [Test report](https://drive.google.com/file/d/1Q8JB51fQ1IZduotx_T_D94LCZeyrbiLN/view?usp=sharing)
+* [Test Plan Execution Report](https://drive.google.com/file/d/1Q8JB51fQ1IZduotx_T_D94LCZeyrbiLN/view?usp=sharing)

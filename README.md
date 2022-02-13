@@ -26,3 +26,4 @@ For over 8 years I worked in a large company as a Business Specialist. I was res
 * Pasja Testowania - Krzysztof Jadczyk
 # my projects
 * [Test Plan Execution Report](https://drive.google.com/file/d/1Q8JB51fQ1IZduotx_T_D94LCZeyrbiLN/view?usp=sharing)
+* [Mind Map](https://drive.google.com/file/d/1CxvyY9mUxGZ8d1AY4g1GIJI1nhRq-FOs/view?usp=sharing)

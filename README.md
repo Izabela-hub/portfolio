@@ -9,10 +9,9 @@ For over 8 years I have been working as a Business Specialist. I decided to deve
 * TestLink
 * Jira
 * BrowserStack basics
-* Postman
-* CI/CD - Jenkins
+* Postman (in progress)
 # tech skills
-* API Testing
+* API Testing  (in progress)
 * SQL Basics
 # certificates
 [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) no. 84046

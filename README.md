@@ -23,6 +23,7 @@ For over 8 years I have been working as a Business Specialist. I decided to deve
 * Zawód Tester - Radosław Smilgin
 * Certyfikowany tester ISTQB -  Adam Roman, Lucjan Stapp
 * Pasja Testowania - Krzysztof Jadczyk
+* Praktyka testowania - Radosław Smilgin
 # my projects
 * [Test Plan Execution Report](https://drive.google.com/file/d/1Q8JB51fQ1IZduotx_T_D94LCZeyrbiLN/view?usp=sharing)
 * [Mind Map](https://drive.google.com/file/d/1CxvyY9mUxGZ8d1AY4g1GIJI1nhRq-FOs/view?usp=sharing)
